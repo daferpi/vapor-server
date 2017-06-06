@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "8a73a7bf552bbbc1b5cd6b743b6ad68f"
+build_time: [548708316, 781542000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+BytesConvertible.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Parse.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Serialize.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+BytesConvertible.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Literal.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Parse.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Serialize.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Request+Cookies.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Response+Cookies.swift": [548708113, 0]

@@ -1,0 +1,23 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "6c2a62f3a27fe5bfcb6f8552693dbfdb"
+build_time: [548708306, 69219000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Aliases.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Base64Encoder.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Alphabet.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+ControlCharacters.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Convenience.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+PatternMatching.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Random.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+UTF8Numbers.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Base64.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Hex.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Percent.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/BytesConvertible.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/ByteSequence+Conversions.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Data+BytesConvertible.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/HexEncoder.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Operators.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/String+BytesConvertible.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/UnsignedInteger+BytesConvertible.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/UnsignedInteger+Shifting.swift": [548708115, 0]

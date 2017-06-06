@@ -1,0 +1,224 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["P4HTTP9Responder", ""]
+- ["P4HTTP9Responder", "respond"]
+- ["P4HTTP9Responder", "request"]
+- ["P4HTTP9Responder", "get"]
+- ["P4HTTP9Responder", "post"]
+- ["P4HTTP9Responder", "patch"]
+- ["P4HTTP9Responder", "put"]
+- ["P4HTTP9Responder", "delete"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "BodyRepresentable"
+- "HeaderKey"
+- "Method"
+- "Middleware"
+- !private "Node"
+- "NodeRepresentable"
+- "Request"
+- "Responder"
+- "Response"
+- "String"
+- !private "URI"
+depends-member:
+- !private ["Ps9AnyObject", "body"]
+- !private ["Ps9AnyObject", "headers"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "query"]
+- !private ["Sa", "chain"]
+- !private ["Ps23BidirectionalCollection", "chain"]
+- !private ["P4HTTP17BodyRepresentable", "makeBody"]
+- !private ["Ps7CVarArg", "chain"]
+- !private ["Ps10Collection", "chain"]
+- !private ["Ps28CustomDebugStringConvertible", "chain"]
+- !private ["Ps17CustomReflectable", "chain"]
+- !private ["Ps23CustomStringConvertible", "body"]
+- !private ["Ps23CustomStringConvertible", "chain"]
+- !private ["Ps23CustomStringConvertible", "delete"]
+- !private ["Ps23CustomStringConvertible", "get"]
+- !private ["Ps23CustomStringConvertible", "headers"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "patch"]
+- !private ["Ps23CustomStringConvertible", "post"]
+- !private ["Ps23CustomStringConvertible", "put"]
+- !private ["Ps23CustomStringConvertible", "query"]
+- !private ["Ps9Equatable", "delete"]
+- !private ["Ps9Equatable", "get"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "patch"]
+- !private ["Ps9Equatable", "post"]
+- !private ["Ps9Equatable", "put"]
+- !private ["Ps25ExpressibleByArrayLiteral", "chain"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps23ExpressibleByNilLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["P4Node14FuzzyConverter", "init"]
+- !private ["Ps8Hashable", "delete"]
+- !private ["Ps8Hashable", "get"]
+- !private ["Ps8Hashable", "patch"]
+- !private ["Ps8Hashable", "post"]
+- !private ["Ps8Hashable", "put"]
+- !private ["P4HTTP7Message", "body"]
+- !private ["P4HTTP7Message", "headers"]
+- !private ["P4HTTP7Message", "init"]
+- !private ["P4HTTP7Message", "query"]
+- !private ["O4HTTP6Method", "delete"]
+- !private ["O4HTTP6Method", "get"]
+- !private ["O4HTTP6Method", "patch"]
+- !private ["O4HTTP6Method", "post"]
+- !private ["O4HTTP6Method", "put"]
+- !private ["Ps17MutableCollection", "chain"]
+- !private ["V4Node4Node", "init"]
+- !private ["P4Node15NodeConvertible", "chain"]
+- !private ["P4Node15NodeConvertible", "init"]
+- !private ["P4Node17NodeInitializable", "chain"]
+- !private ["P4Node17NodeInitializable", "init"]
+- !private ["P4Node17NodeRepresentable", "body"]
+- !private ["P4Node17NodeRepresentable", "chain"]
+- !private ["P4Node17NodeRepresentable", "headers"]
+- !private ["P4Node17NodeRepresentable", "init"]
+- !private ["P4Node17NodeRepresentable", "query"]
+- !private ["P13PathIndexable13PathIndexable", "init"]
+- !private ["Ps22RandomAccessCollection", "chain"]
+- !private ["Ps26RangeReplaceableCollection", "chain"]
+- !private ["C4HTTP7Request", "body"]
+- !private ["C4HTTP7Request", "headers"]
+- !private ["C4HTTP7Request", "init"]
+- !private ["C4HTTP7Request", "query"]
+- ["P4HTTP9Responder", "BodyRepresentable"]
+- ["P4HTTP9Responder", "HeaderKey"]
+- ["P4HTTP9Responder", "Method"]
+- ["P4HTTP9Responder", "Middleware"]
+- !private ["P4HTTP9Responder", "Node"]
+- ["P4HTTP9Responder", "NodeRepresentable"]
+- ["P4HTTP9Responder", "Request"]
+- ["P4HTTP9Responder", "Response"]
+- ["P4HTTP9Responder", "String"]
+- !private ["P4HTTP9Responder", "URI"]
+- ["P4HTTP9Responder", "delete"]
+- ["P4HTTP9Responder", "get"]
+- ["P4HTTP9Responder", "patch"]
+- ["P4HTTP9Responder", "post"]
+- ["P4HTTP9Responder", "put"]
+- ["P4HTTP9Responder", "request"]
+- ["P4HTTP9Responder", "respond"]
+- !private ["Ps8Sequence", "chain"]
+- !private ["P4Node21StructuredDataWrapper", "init"]
+- !private ["V3URI3URI", "init"]
+- !private ["Ps14_ArrayProtocol", "chain"]
+- !private ["Ps23_BidirectionalIndexable", "chain"]
+- !private ["Ps24_DestructorSafeContainer", "chain"]
+- !private ["Ps9_Hashable", "delete"]
+- !private ["Ps9_Hashable", "get"]
+- !private ["Ps9_Hashable", "patch"]
+- !private ["Ps9_Hashable", "post"]
+- !private ["Ps9_Hashable", "put"]
+- !private ["Ps10_Indexable", "chain"]
+- !private ["Ps14_IndexableBase", "chain"]
+- !private ["Ps17_MutableIndexable", "chain"]
+- !private ["Ps21_ObjectiveCBridgeable", "chain"]
+- !private ["Ps22_RandomAccessIndexable", "chain"]
+- !private ["Ps26_RangeReplaceableIndexable", "chain"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "P4HTTP17BodyRepresentable"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "P4Node14FuzzyConverter"
+- !private "Ps8Hashable"
+- !private "P4HTTP7Message"
+- !private "O4HTTP6Method"
+- !private "Ps17MutableCollection"
+- !private "V4Node4Node"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- !private "P4Node17NodeRepresentable"
+- !private "P13PathIndexable13PathIndexable"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- !private "C4HTTP7Request"
+- "P4HTTP9Responder"
+- !private "Ps8Sequence"
+- !private "P4Node21StructuredDataWrapper"
+- !private "V3URI3URI"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/URI.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/JSON.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/SMTP.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/HTTP.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/TLS.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Node.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Console.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Core.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Crypto.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Branches.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cookies.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Configs.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Sessions.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Sockets.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/WebSockets.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/BCrypt.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Transport.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/CHTTP.build/module.modulemap"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/CSQLite.build/module.modulemap"
+interface-hash: "a3c52ae69b3dc3b028b486fda2fd092c"

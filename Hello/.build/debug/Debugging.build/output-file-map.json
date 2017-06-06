@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.build/master.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.build/Debuggable.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.build/Debuggable.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.build/Debuggable~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.build/Debuggable.swiftdeps"
+  }
+}

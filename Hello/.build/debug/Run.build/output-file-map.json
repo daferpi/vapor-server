@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/Run/main.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Run.build/main.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Run.build/main.swiftdeps"
+  }
+}

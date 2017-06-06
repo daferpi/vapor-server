@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/master.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable+Subscripting.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable+Subscripting.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable+Subscripting~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.build/PathIndexable.swiftdeps"
+  }
+}

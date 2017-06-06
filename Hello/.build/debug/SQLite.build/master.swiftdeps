@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ebbf7c8e4e73e3208047f62c7be6d54a"
+build_time: [548708317, 984657000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Result.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite+Statement.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/SQLite/SQLite.swift": [548708114, 0]

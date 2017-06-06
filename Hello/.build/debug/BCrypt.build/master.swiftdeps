@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "df7c9e3569118fb4bcb823eab39d33ee"
+build_time: [548708310, 621463000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [548708115, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [548708115, 0]

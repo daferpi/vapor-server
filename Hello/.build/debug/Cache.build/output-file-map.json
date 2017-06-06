@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/master.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/CacheProtocol.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/CacheProtocol.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/CacheProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/CacheProtocol.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/MemoryCache.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/MemoryCache.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/MemoryCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.build/MemoryCache.swiftdeps"
+  }
+}

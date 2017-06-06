@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "6f25f4ea56c58c753c425f2fc51bd1b3"
+build_time: [548708327, 456182000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/Run/main.swift": [548707193, 0]

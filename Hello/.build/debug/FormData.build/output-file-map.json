@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/master.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/ContentDispositionParser.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/ContentDispositionParser.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/ContentDispositionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/ContentDispositionParser.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Field.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Field.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Field.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Parser.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Parser.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Parser.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Serializer.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Serializer.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Serializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.build/Serializer.swiftdeps"
+  }
+}

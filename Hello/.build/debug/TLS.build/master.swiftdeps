@@ -1,0 +1,16 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "3734e59f384f2a00c4d7063a9c04d476"
+build_time: [548708313, 200515000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Certificates.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ClientSocket.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Context.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Error.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Exports.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/InternetSocket.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Mode.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ReadableSocket.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/ServerSocket.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Socket.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/Utilities.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/tls.git-2678149690400510061/Sources/TLS/WriteableSocket.swift": [548708114, 0]

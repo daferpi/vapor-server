@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.build/libc.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

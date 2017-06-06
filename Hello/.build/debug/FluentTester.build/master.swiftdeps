@@ -1,0 +1,20 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "b2e71995b634271cea22e26a43e7914b"
+build_time: [548708322, 748091000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Atom.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Compound.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Student.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Chunk.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+CustomKeys.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+ForeignKey.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Index.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+InsertAndFind.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Paginate.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+PivotsAndRelations.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Schema.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+SoftDelete.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Timestamps.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Transaction.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester+Utilities.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent.git-6251908308727715749/Sources/FluentTester/Tester.swift": [548708114, 0]

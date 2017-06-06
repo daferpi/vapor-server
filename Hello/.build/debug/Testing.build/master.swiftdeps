@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "3c1ec8123bda9ea368ac0ec231851ded"
+build_time: [548708325, 999478000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Bytes.swift": [548708111, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Exports.swift": [548708111, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Request.swift": [548708111, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Responder.swift": [548708111, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Response.swift": [548708111, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/TestingError.swift": [548708111, 0]

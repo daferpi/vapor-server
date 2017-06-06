@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "a5492d20f4fab962c5b9cedf32334481"
+build_time: [548708309, 637786000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable+Subscripting.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable.swift": [548708112, 0]

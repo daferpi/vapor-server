@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "95d346b4b96bb3b5fdc69ae1a91465cb"
+build_time: [548708313, 778509000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Equatable.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [548708113, 0]

@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "86b6139f85c3609167ea84c20c39f25b"
+build_time: [548708310, 622637000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": [548708114, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": [548708114, 0]

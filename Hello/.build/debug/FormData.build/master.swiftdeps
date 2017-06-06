@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "372a3c5c33667fdd4a66f27fa9fef778"
+build_time: [548708318, 360689000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": [548708113, 0]

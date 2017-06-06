@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "813d8c4ac480f22df36be8199d168128"
+build_time: [548708314, 551483000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": [548708113, 0]

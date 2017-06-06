@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Config+Setup.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Config+Setup.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Config+Setup.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Config+Setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Config+Setup.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Droplet+Setup.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Droplet+Setup.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Droplet+Setup.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Droplet+Setup~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Droplet+Setup.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Routes.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Routes.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Routes.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Routes~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Routes.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Controllers/PostController.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/PostController.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Controllers/PostController.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/PostController~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/PostController.swiftdeps"
+  },
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Models/Post.swift": {
+    "dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Post.d",
+    "object": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Models/Post.swift.o",
+    "swiftmodule": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Post~partial.swiftmodule",
+    "swift-dependencies": "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/App.build/Post.swiftdeps"
+  }
+}

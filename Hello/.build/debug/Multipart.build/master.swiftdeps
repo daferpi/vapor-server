@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "3547bcac2393a1012be6d7d5f9bbf156"
+build_time: [548708317, 742443000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/BoundaryParser.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/HeaderParser.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Multipart+BytesConvertible.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Parser.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Part.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Serializer.swift": [548708113, 0]

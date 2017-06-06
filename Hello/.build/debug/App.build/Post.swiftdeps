@@ -1,0 +1,673 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Post"
+provides-nominal:
+- "C3App4Post"
+provides-member:
+- ["C3App4Post", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Database"
+- "JSON"
+- "JSONConvertible"
+- "Model"
+- "Post"
+- "Preparation"
+- "ResponseRepresentable"
+- "Row"
+- "Storage"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "JSON"]
+- !private ["Ps9AnyObject", "Row"]
+- ["Ps9AnyObject", "Storage"]
+- ["Ps9AnyObject", "computedFields"]
+- !private ["Ps9AnyObject", "content"]
+- !private ["Ps9AnyObject", "create"]
+- !private ["Ps9AnyObject", "delete"]
+- ["Ps9AnyObject", "didCreate"]
+- ["Ps9AnyObject", "didDelete"]
+- ["Ps9AnyObject", "didUpdate"]
+- ["Ps9AnyObject", "entity"]
+- ["Ps9AnyObject", "foreignIdKey"]
+- ["Ps9AnyObject", "id"]
+- ["Ps9AnyObject", "idKey"]
+- ["Ps9AnyObject", "idType"]
+- ["Ps9AnyObject", "identifier"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "keyNamingConvention"]
+- ["Ps9AnyObject", "make"]
+- ["Ps9AnyObject", "makeJSON"]
+- ["Ps9AnyObject", "makeResponse"]
+- ["Ps9AnyObject", "makeRow"]
+- ["Ps9AnyObject", "name"]
+- ["Ps9AnyObject", "prepare"]
+- ["Ps9AnyObject", "revert"]
+- ["Ps9AnyObject", "storage"]
+- !private ["Ps9AnyObject", "string"]
+- ["Ps9AnyObject", "uniqueSlug"]
+- ["Ps9AnyObject", "willCreate"]
+- ["Ps9AnyObject", "willDelete"]
+- ["Ps9AnyObject", "willUpdate"]
+- ["Ps9AnyObject", ""]
+- !private ["P4HTTP17BodyRepresentable", "get"]
+- !private ["P4HTTP17BodyRepresentable", "init"]
+- !private ["P4HTTP17BodyRepresentable", "set"]
+- !private ["P6Fluent7Builder", "id"]
+- !private ["P6Fluent7Builder", "string"]
+- !private ["P4Bits16BytesConvertible", "get"]
+- !private ["P4Bits16BytesConvertible", "init"]
+- !private ["P4Bits16BytesConvertible", "set"]
+- !private ["P4Bits18BytesInitializable", "get"]
+- !private ["P4Bits18BytesInitializable", "init"]
+- !private ["P4Bits18BytesInitializable", "set"]
+- !private ["P4Bits18BytesRepresentable", "get"]
+- !private ["P4Bits18BytesRepresentable", "init"]
+- !private ["P4Bits18BytesRepresentable", "set"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps10Comparable", "init"]
+- !private ["C6Fluent7Creator", "id"]
+- !private ["C6Fluent7Creator", "string"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["C6Fluent8Database", "create"]
+- !private ["C6Fluent8Database", "delete"]
+- !private ["P4SMTP25EmailAddressRepresentable", "init"]
+- !private ["P4SMTP22EmailBodyRepresentable", "init"]
+- !private ["P6Fluent6Entity", "JSON"]
+- !private ["P6Fluent6Entity", "Row"]
+- ["P6Fluent6Entity", "Storage"]
+- ["P6Fluent6Entity", "computedFields"]
+- !private ["P6Fluent6Entity", "content"]
+- ["P6Fluent6Entity", "didCreate"]
+- ["P6Fluent6Entity", "didDelete"]
+- ["P6Fluent6Entity", "didUpdate"]
+- ["P6Fluent6Entity", "entity"]
+- ["P6Fluent6Entity", "foreignIdKey"]
+- ["P6Fluent6Entity", "id"]
+- ["P6Fluent6Entity", "idKey"]
+- ["P6Fluent6Entity", "idType"]
+- ["P6Fluent6Entity", "identifier"]
+- ["P6Fluent6Entity", "init"]
+- ["P6Fluent6Entity", "keyNamingConvention"]
+- ["P6Fluent6Entity", "make"]
+- ["P6Fluent6Entity", "makeJSON"]
+- ["P6Fluent6Entity", "makeResponse"]
+- ["P6Fluent6Entity", "makeRow"]
+- ["P6Fluent6Entity", "name"]
+- ["P6Fluent6Entity", "prepare"]
+- ["P6Fluent6Entity", "revert"]
+- ["P6Fluent6Entity", "storage"]
+- ["P6Fluent6Entity", "uniqueSlug"]
+- ["P6Fluent6Entity", "willCreate"]
+- ["P6Fluent6Entity", "willDelete"]
+- ["P6Fluent6Entity", "willUpdate"]
+- ["P6Fluent6Entity", ""]
+- !private ["Ps9Equatable", "get"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "set"]
+- !private ["P6Fluent8Executor", "create"]
+- !private ["P6Fluent8Executor", "delete"]
+- !private ["Ps25ExpressibleByArrayLiteral", "get"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "set"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "get"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "set"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "get"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "set"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "get"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "set"]
+- !private ["Ps25ExpressibleByFloatLiteral", "get"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "set"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "get"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "set"]
+- !private ["Ps23ExpressibleByNilLiteral", "get"]
+- !private ["Ps23ExpressibleByNilLiteral", "init"]
+- !private ["Ps23ExpressibleByNilLiteral", "set"]
+- !private ["Ps26ExpressibleByStringLiteral", "get"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "set"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "get"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "set"]
+- !private ["P4Node14FuzzyConverter", "get"]
+- !private ["P4Node14FuzzyConverter", "init"]
+- !private ["P4Node14FuzzyConverter", "set"]
+- !private ["Ps8Hashable", "init"]
+- !private ["V4JSON4JSON", "get"]
+- !private ["V4JSON4JSON", "init"]
+- !private ["V4JSON4JSON", "set"]
+- !private ["P4JSON15JSONConvertible", "JSON"]
+- !private ["P4JSON15JSONConvertible", "Row"]
+- ["P4JSON15JSONConvertible", "Storage"]
+- ["P4JSON15JSONConvertible", "computedFields"]
+- !private ["P4JSON15JSONConvertible", "content"]
+- ["P4JSON15JSONConvertible", "didCreate"]
+- ["P4JSON15JSONConvertible", "didDelete"]
+- ["P4JSON15JSONConvertible", "didUpdate"]
+- ["P4JSON15JSONConvertible", "entity"]
+- ["P4JSON15JSONConvertible", "foreignIdKey"]
+- ["P4JSON15JSONConvertible", "id"]
+- ["P4JSON15JSONConvertible", "idKey"]
+- ["P4JSON15JSONConvertible", "idType"]
+- ["P4JSON15JSONConvertible", "identifier"]
+- ["P4JSON15JSONConvertible", "init"]
+- ["P4JSON15JSONConvertible", "keyNamingConvention"]
+- ["P4JSON15JSONConvertible", "make"]
+- ["P4JSON15JSONConvertible", "makeJSON"]
+- ["P4JSON15JSONConvertible", "makeResponse"]
+- ["P4JSON15JSONConvertible", "makeRow"]
+- ["P4JSON15JSONConvertible", "name"]
+- ["P4JSON15JSONConvertible", "prepare"]
+- ["P4JSON15JSONConvertible", "revert"]
+- ["P4JSON15JSONConvertible", "storage"]
+- ["P4JSON15JSONConvertible", "uniqueSlug"]
+- ["P4JSON15JSONConvertible", "willCreate"]
+- ["P4JSON15JSONConvertible", "willDelete"]
+- ["P4JSON15JSONConvertible", "willUpdate"]
+- ["P4JSON15JSONConvertible", ""]
+- !private ["P4JSON17JSONInitializable", "JSON"]
+- !private ["P4JSON17JSONInitializable", "Row"]
+- ["P4JSON17JSONInitializable", "Storage"]
+- ["P4JSON17JSONInitializable", "computedFields"]
+- !private ["P4JSON17JSONInitializable", "content"]
+- ["P4JSON17JSONInitializable", "didCreate"]
+- ["P4JSON17JSONInitializable", "didDelete"]
+- ["P4JSON17JSONInitializable", "didUpdate"]
+- ["P4JSON17JSONInitializable", "entity"]
+- ["P4JSON17JSONInitializable", "foreignIdKey"]
+- ["P4JSON17JSONInitializable", "id"]
+- ["P4JSON17JSONInitializable", "idKey"]
+- ["P4JSON17JSONInitializable", "idType"]
+- ["P4JSON17JSONInitializable", "identifier"]
+- ["P4JSON17JSONInitializable", "init"]
+- ["P4JSON17JSONInitializable", "keyNamingConvention"]
+- ["P4JSON17JSONInitializable", "make"]
+- ["P4JSON17JSONInitializable", "makeJSON"]
+- ["P4JSON17JSONInitializable", "makeResponse"]
+- ["P4JSON17JSONInitializable", "makeRow"]
+- ["P4JSON17JSONInitializable", "name"]
+- ["P4JSON17JSONInitializable", "prepare"]
+- ["P4JSON17JSONInitializable", "revert"]
+- ["P4JSON17JSONInitializable", "storage"]
+- ["P4JSON17JSONInitializable", "uniqueSlug"]
+- ["P4JSON17JSONInitializable", "willCreate"]
+- ["P4JSON17JSONInitializable", "willDelete"]
+- ["P4JSON17JSONInitializable", "willUpdate"]
+- ["P4JSON17JSONInitializable", ""]
+- !private ["P4JSON17JSONRepresentable", "JSON"]
+- !private ["P4JSON17JSONRepresentable", "Row"]
+- ["P4JSON17JSONRepresentable", "Storage"]
+- ["P4JSON17JSONRepresentable", "computedFields"]
+- !private ["P4JSON17JSONRepresentable", "content"]
+- ["P4JSON17JSONRepresentable", "didCreate"]
+- ["P4JSON17JSONRepresentable", "didDelete"]
+- ["P4JSON17JSONRepresentable", "didUpdate"]
+- ["P4JSON17JSONRepresentable", "entity"]
+- ["P4JSON17JSONRepresentable", "foreignIdKey"]
+- !private ["P4JSON17JSONRepresentable", "get"]
+- ["P4JSON17JSONRepresentable", "id"]
+- ["P4JSON17JSONRepresentable", "idKey"]
+- ["P4JSON17JSONRepresentable", "idType"]
+- ["P4JSON17JSONRepresentable", "identifier"]
+- ["P4JSON17JSONRepresentable", "init"]
+- ["P4JSON17JSONRepresentable", "keyNamingConvention"]
+- ["P4JSON17JSONRepresentable", "make"]
+- ["P4JSON17JSONRepresentable", "makeJSON"]
+- ["P4JSON17JSONRepresentable", "makeResponse"]
+- ["P4JSON17JSONRepresentable", "makeRow"]
+- ["P4JSON17JSONRepresentable", "name"]
+- ["P4JSON17JSONRepresentable", "prepare"]
+- ["P4JSON17JSONRepresentable", "revert"]
+- !private ["P4JSON17JSONRepresentable", "set"]
+- ["P4JSON17JSONRepresentable", "storage"]
+- ["P4JSON17JSONRepresentable", "uniqueSlug"]
+- ["P4JSON17JSONRepresentable", "willCreate"]
+- ["P4JSON17JSONRepresentable", "willDelete"]
+- ["P4JSON17JSONRepresentable", "willUpdate"]
+- ["P4JSON17JSONRepresentable", ""]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["P14FluentProvider5Model", "JSON"]
+- !private ["P14FluentProvider5Model", "Row"]
+- ["P14FluentProvider5Model", "Storage"]
+- ["P14FluentProvider5Model", "computedFields"]
+- !private ["P14FluentProvider5Model", "content"]
+- ["P14FluentProvider5Model", "didCreate"]
+- ["P14FluentProvider5Model", "didDelete"]
+- ["P14FluentProvider5Model", "didUpdate"]
+- ["P14FluentProvider5Model", "entity"]
+- ["P14FluentProvider5Model", "foreignIdKey"]
+- ["P14FluentProvider5Model", "id"]
+- ["P14FluentProvider5Model", "idKey"]
+- ["P14FluentProvider5Model", "idType"]
+- ["P14FluentProvider5Model", "identifier"]
+- ["P14FluentProvider5Model", "init"]
+- ["P14FluentProvider5Model", "keyNamingConvention"]
+- ["P14FluentProvider5Model", "make"]
+- ["P14FluentProvider5Model", "makeJSON"]
+- ["P14FluentProvider5Model", "makeResponse"]
+- ["P14FluentProvider5Model", "makeRow"]
+- ["P14FluentProvider5Model", "name"]
+- ["P14FluentProvider5Model", "prepare"]
+- ["P14FluentProvider5Model", "revert"]
+- ["P14FluentProvider5Model", "storage"]
+- ["P14FluentProvider5Model", "uniqueSlug"]
+- ["P14FluentProvider5Model", "willCreate"]
+- ["P14FluentProvider5Model", "willDelete"]
+- ["P14FluentProvider5Model", "willUpdate"]
+- ["P14FluentProvider5Model", ""]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["P4Node15NodeConvertible", "get"]
+- !private ["P4Node15NodeConvertible", "init"]
+- !private ["P4Node15NodeConvertible", "set"]
+- !private ["P4Node17NodeInitializable", "get"]
+- !private ["P4Node17NodeInitializable", "init"]
+- !private ["P4Node17NodeInitializable", "set"]
+- !private ["P4Node17NodeRepresentable", "get"]
+- !private ["P4Node17NodeRepresentable", "init"]
+- !private ["P4Node17NodeRepresentable", "set"]
+- !private ["P7Routing15Parameterizable", "JSON"]
+- !private ["P7Routing15Parameterizable", "Row"]
+- ["P7Routing15Parameterizable", "Storage"]
+- ["P7Routing15Parameterizable", "computedFields"]
+- !private ["P7Routing15Parameterizable", "content"]
+- ["P7Routing15Parameterizable", "didCreate"]
+- ["P7Routing15Parameterizable", "didDelete"]
+- ["P7Routing15Parameterizable", "didUpdate"]
+- ["P7Routing15Parameterizable", "entity"]
+- ["P7Routing15Parameterizable", "foreignIdKey"]
+- ["P7Routing15Parameterizable", "id"]
+- ["P7Routing15Parameterizable", "idKey"]
+- ["P7Routing15Parameterizable", "idType"]
+- ["P7Routing15Parameterizable", "identifier"]
+- ["P7Routing15Parameterizable", "init"]
+- ["P7Routing15Parameterizable", "keyNamingConvention"]
+- ["P7Routing15Parameterizable", "make"]
+- ["P7Routing15Parameterizable", "makeJSON"]
+- ["P7Routing15Parameterizable", "makeResponse"]
+- ["P7Routing15Parameterizable", "makeRow"]
+- ["P7Routing15Parameterizable", "name"]
+- ["P7Routing15Parameterizable", "prepare"]
+- ["P7Routing15Parameterizable", "revert"]
+- ["P7Routing15Parameterizable", "storage"]
+- ["P7Routing15Parameterizable", "uniqueSlug"]
+- ["P7Routing15Parameterizable", "willCreate"]
+- ["P7Routing15Parameterizable", "willDelete"]
+- ["P7Routing15Parameterizable", "willUpdate"]
+- ["P7Routing15Parameterizable", ""]
+- !private ["P13PathIndexable13PathIndexable", "get"]
+- !private ["P13PathIndexable13PathIndexable", "init"]
+- !private ["P13PathIndexable13PathIndexable", "set"]
+- !private ["P13PathIndexable11PathIndexer", "init"]
+- ["C3App4Post", "Database"]
+- ["C3App4Post", "JSON"]
+- ["C3App4Post", "Row"]
+- ["C3App4Post", "Storage"]
+- ["C3App4Post", "String"]
+- ["C3App4Post", "computedFields"]
+- ["C3App4Post", "content"]
+- ["C3App4Post", "deinit"]
+- ["C3App4Post", "didCreate"]
+- ["C3App4Post", "didDelete"]
+- ["C3App4Post", "didUpdate"]
+- ["C3App4Post", "entity"]
+- ["C3App4Post", "foreignIdKey"]
+- ["C3App4Post", "id"]
+- ["C3App4Post", "idKey"]
+- ["C3App4Post", "idType"]
+- ["C3App4Post", "identifier"]
+- ["C3App4Post", "init"]
+- ["C3App4Post", "keyNamingConvention"]
+- ["C3App4Post", "make"]
+- ["C3App4Post", "makeJSON"]
+- ["C3App4Post", "makeResponse"]
+- ["C3App4Post", "makeRow"]
+- ["C3App4Post", "name"]
+- ["C3App4Post", "prepare"]
+- ["C3App4Post", "revert"]
+- ["C3App4Post", "storage"]
+- ["C3App4Post", "uniqueSlug"]
+- ["C3App4Post", "willCreate"]
+- ["C3App4Post", "willDelete"]
+- ["C3App4Post", "willUpdate"]
+- !private ["P6Fluent11Preparation", "JSON"]
+- !private ["P6Fluent11Preparation", "Row"]
+- ["P6Fluent11Preparation", "Storage"]
+- ["P6Fluent11Preparation", "computedFields"]
+- !private ["P6Fluent11Preparation", "content"]
+- ["P6Fluent11Preparation", "didCreate"]
+- ["P6Fluent11Preparation", "didDelete"]
+- ["P6Fluent11Preparation", "didUpdate"]
+- ["P6Fluent11Preparation", "entity"]
+- ["P6Fluent11Preparation", "foreignIdKey"]
+- ["P6Fluent11Preparation", "id"]
+- ["P6Fluent11Preparation", "idKey"]
+- ["P6Fluent11Preparation", "idType"]
+- ["P6Fluent11Preparation", "identifier"]
+- ["P6Fluent11Preparation", "init"]
+- ["P6Fluent11Preparation", "keyNamingConvention"]
+- ["P6Fluent11Preparation", "make"]
+- ["P6Fluent11Preparation", "makeJSON"]
+- ["P6Fluent11Preparation", "makeResponse"]
+- ["P6Fluent11Preparation", "makeRow"]
+- ["P6Fluent11Preparation", "name"]
+- ["P6Fluent11Preparation", "prepare"]
+- ["P6Fluent11Preparation", "revert"]
+- ["P6Fluent11Preparation", "storage"]
+- ["P6Fluent11Preparation", "uniqueSlug"]
+- ["P6Fluent11Preparation", "willCreate"]
+- ["P6Fluent11Preparation", "willDelete"]
+- ["P6Fluent11Preparation", "willUpdate"]
+- ["P6Fluent11Preparation", ""]
+- !private ["P6Fluent11QueryLogger", "create"]
+- !private ["P6Fluent11QueryLogger", "delete"]
+- !private ["P5Vapor23RequestContentSubscript", "init"]
+- !private ["P4HTTP21ResponseRepresentable", "JSON"]
+- !private ["P4HTTP21ResponseRepresentable", "Row"]
+- ["P4HTTP21ResponseRepresentable", "Storage"]
+- ["P4HTTP21ResponseRepresentable", "computedFields"]
+- !private ["P4HTTP21ResponseRepresentable", "content"]
+- ["P4HTTP21ResponseRepresentable", "didCreate"]
+- ["P4HTTP21ResponseRepresentable", "didDelete"]
+- ["P4HTTP21ResponseRepresentable", "didUpdate"]
+- ["P4HTTP21ResponseRepresentable", "entity"]
+- ["P4HTTP21ResponseRepresentable", "foreignIdKey"]
+- !private ["P4HTTP21ResponseRepresentable", "get"]
+- ["P4HTTP21ResponseRepresentable", "id"]
+- ["P4HTTP21ResponseRepresentable", "idKey"]
+- ["P4HTTP21ResponseRepresentable", "idType"]
+- ["P4HTTP21ResponseRepresentable", "identifier"]
+- ["P4HTTP21ResponseRepresentable", "init"]
+- ["P4HTTP21ResponseRepresentable", "keyNamingConvention"]
+- ["P4HTTP21ResponseRepresentable", "make"]
+- ["P4HTTP21ResponseRepresentable", "makeJSON"]
+- ["P4HTTP21ResponseRepresentable", "makeResponse"]
+- ["P4HTTP21ResponseRepresentable", "makeRow"]
+- ["P4HTTP21ResponseRepresentable", "name"]
+- ["P4HTTP21ResponseRepresentable", "prepare"]
+- ["P4HTTP21ResponseRepresentable", "revert"]
+- !private ["P4HTTP21ResponseRepresentable", "set"]
+- ["P4HTTP21ResponseRepresentable", "storage"]
+- ["P4HTTP21ResponseRepresentable", "uniqueSlug"]
+- ["P4HTTP21ResponseRepresentable", "willCreate"]
+- ["P4HTTP21ResponseRepresentable", "willDelete"]
+- ["P4HTTP21ResponseRepresentable", "willUpdate"]
+- ["P4HTTP21ResponseRepresentable", ""]
+- !private ["V6Fluent3Row", "get"]
+- !private ["V6Fluent3Row", "init"]
+- !private ["V6Fluent3Row", "set"]
+- !private ["P6Fluent14RowConvertible", "JSON"]
+- !private ["P6Fluent14RowConvertible", "Row"]
+- ["P6Fluent14RowConvertible", "Storage"]
+- ["P6Fluent14RowConvertible", "computedFields"]
+- !private ["P6Fluent14RowConvertible", "content"]
+- ["P6Fluent14RowConvertible", "didCreate"]
+- ["P6Fluent14RowConvertible", "didDelete"]
+- ["P6Fluent14RowConvertible", "didUpdate"]
+- ["P6Fluent14RowConvertible", "entity"]
+- ["P6Fluent14RowConvertible", "foreignIdKey"]
+- ["P6Fluent14RowConvertible", "id"]
+- ["P6Fluent14RowConvertible", "idKey"]
+- ["P6Fluent14RowConvertible", "idType"]
+- ["P6Fluent14RowConvertible", "identifier"]
+- ["P6Fluent14RowConvertible", "init"]
+- ["P6Fluent14RowConvertible", "keyNamingConvention"]
+- ["P6Fluent14RowConvertible", "make"]
+- ["P6Fluent14RowConvertible", "makeJSON"]
+- ["P6Fluent14RowConvertible", "makeResponse"]
+- ["P6Fluent14RowConvertible", "makeRow"]
+- ["P6Fluent14RowConvertible", "name"]
+- ["P6Fluent14RowConvertible", "prepare"]
+- ["P6Fluent14RowConvertible", "revert"]
+- ["P6Fluent14RowConvertible", "storage"]
+- ["P6Fluent14RowConvertible", "uniqueSlug"]
+- ["P6Fluent14RowConvertible", "willCreate"]
+- ["P6Fluent14RowConvertible", "willDelete"]
+- ["P6Fluent14RowConvertible", "willUpdate"]
+- ["P6Fluent14RowConvertible", ""]
+- !private ["P6Fluent16RowInitializable", "JSON"]
+- !private ["P6Fluent16RowInitializable", "Row"]
+- ["P6Fluent16RowInitializable", "Storage"]
+- ["P6Fluent16RowInitializable", "computedFields"]
+- !private ["P6Fluent16RowInitializable", "content"]
+- ["P6Fluent16RowInitializable", "didCreate"]
+- ["P6Fluent16RowInitializable", "didDelete"]
+- ["P6Fluent16RowInitializable", "didUpdate"]
+- ["P6Fluent16RowInitializable", "entity"]
+- ["P6Fluent16RowInitializable", "foreignIdKey"]
+- ["P6Fluent16RowInitializable", "id"]
+- ["P6Fluent16RowInitializable", "idKey"]
+- ["P6Fluent16RowInitializable", "idType"]
+- ["P6Fluent16RowInitializable", "identifier"]
+- ["P6Fluent16RowInitializable", "init"]
+- ["P6Fluent16RowInitializable", "keyNamingConvention"]
+- ["P6Fluent16RowInitializable", "make"]
+- ["P6Fluent16RowInitializable", "makeJSON"]
+- ["P6Fluent16RowInitializable", "makeResponse"]
+- ["P6Fluent16RowInitializable", "makeRow"]
+- ["P6Fluent16RowInitializable", "name"]
+- ["P6Fluent16RowInitializable", "prepare"]
+- ["P6Fluent16RowInitializable", "revert"]
+- ["P6Fluent16RowInitializable", "storage"]
+- ["P6Fluent16RowInitializable", "uniqueSlug"]
+- ["P6Fluent16RowInitializable", "willCreate"]
+- ["P6Fluent16RowInitializable", "willDelete"]
+- ["P6Fluent16RowInitializable", "willUpdate"]
+- ["P6Fluent16RowInitializable", ""]
+- !private ["P6Fluent16RowRepresentable", "JSON"]
+- !private ["P6Fluent16RowRepresentable", "Row"]
+- ["P6Fluent16RowRepresentable", "Storage"]
+- ["P6Fluent16RowRepresentable", "computedFields"]
+- !private ["P6Fluent16RowRepresentable", "content"]
+- ["P6Fluent16RowRepresentable", "didCreate"]
+- ["P6Fluent16RowRepresentable", "didDelete"]
+- ["P6Fluent16RowRepresentable", "didUpdate"]
+- ["P6Fluent16RowRepresentable", "entity"]
+- ["P6Fluent16RowRepresentable", "foreignIdKey"]
+- ["P6Fluent16RowRepresentable", "id"]
+- ["P6Fluent16RowRepresentable", "idKey"]
+- ["P6Fluent16RowRepresentable", "idType"]
+- ["P6Fluent16RowRepresentable", "identifier"]
+- ["P6Fluent16RowRepresentable", "init"]
+- ["P6Fluent16RowRepresentable", "keyNamingConvention"]
+- ["P6Fluent16RowRepresentable", "make"]
+- ["P6Fluent16RowRepresentable", "makeJSON"]
+- ["P6Fluent16RowRepresentable", "makeResponse"]
+- ["P6Fluent16RowRepresentable", "makeRow"]
+- ["P6Fluent16RowRepresentable", "name"]
+- ["P6Fluent16RowRepresentable", "prepare"]
+- ["P6Fluent16RowRepresentable", "revert"]
+- ["P6Fluent16RowRepresentable", "storage"]
+- ["P6Fluent16RowRepresentable", "uniqueSlug"]
+- ["P6Fluent16RowRepresentable", "willCreate"]
+- ["P6Fluent16RowRepresentable", "willDelete"]
+- ["P6Fluent16RowRepresentable", "willUpdate"]
+- ["P6Fluent16RowRepresentable", ""]
+- !private ["P6Fluent8Storable", "JSON"]
+- !private ["P6Fluent8Storable", "Row"]
+- ["P6Fluent8Storable", "Storage"]
+- ["P6Fluent8Storable", "computedFields"]
+- !private ["P6Fluent8Storable", "content"]
+- ["P6Fluent8Storable", "didCreate"]
+- ["P6Fluent8Storable", "didDelete"]
+- ["P6Fluent8Storable", "didUpdate"]
+- ["P6Fluent8Storable", "entity"]
+- ["P6Fluent8Storable", "foreignIdKey"]
+- ["P6Fluent8Storable", "id"]
+- ["P6Fluent8Storable", "idKey"]
+- ["P6Fluent8Storable", "idType"]
+- ["P6Fluent8Storable", "identifier"]
+- ["P6Fluent8Storable", "init"]
+- ["P6Fluent8Storable", "keyNamingConvention"]
+- ["P6Fluent8Storable", "make"]
+- ["P6Fluent8Storable", "makeJSON"]
+- ["P6Fluent8Storable", "makeResponse"]
+- ["P6Fluent8Storable", "makeRow"]
+- ["P6Fluent8Storable", "name"]
+- ["P6Fluent8Storable", "prepare"]
+- ["P6Fluent8Storable", "revert"]
+- ["P6Fluent8Storable", "storage"]
+- ["P6Fluent8Storable", "uniqueSlug"]
+- ["P6Fluent8Storable", "willCreate"]
+- ["P6Fluent8Storable", "willDelete"]
+- ["P6Fluent8Storable", "willUpdate"]
+- ["P6Fluent8Storable", ""]
+- ["C6Fluent7Storage", "init"]
+- !private ["SS", "init"]
+- !private ["P5Vapor19StringInitializable", "init"]
+- !private ["P4Node21StructuredDataWrapper", "get"]
+- !private ["P4Node21StructuredDataWrapper", "init"]
+- !private ["P4Node21StructuredDataWrapper", "set"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["P6Fluent12Transactable", "create"]
+- !private ["P6Fluent12Transactable", "delete"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "P4HTTP17BodyRepresentable"
+- !private "P6Fluent7Builder"
+- !private "P4Bits16BytesConvertible"
+- !private "P4Bits18BytesInitializable"
+- !private "P4Bits18BytesRepresentable"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "C6Fluent7Creator"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "C6Fluent8Database"
+- !private "P4SMTP25EmailAddressRepresentable"
+- !private "P4SMTP22EmailBodyRepresentable"
+- "P6Fluent6Entity"
+- !private "Ps9Equatable"
+- !private "P6Fluent8Executor"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "P4Node14FuzzyConverter"
+- !private "Ps8Hashable"
+- !private "V4JSON4JSON"
+- "P4JSON15JSONConvertible"
+- "P4JSON17JSONInitializable"
+- "P4JSON17JSONRepresentable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "P14FluentProvider5Model"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- !private "P4Node17NodeRepresentable"
+- "P7Routing15Parameterizable"
+- !private "P13PathIndexable13PathIndexable"
+- !private "P13PathIndexable11PathIndexer"
+- "C3App4Post"
+- "P6Fluent11Preparation"
+- !private "P6Fluent11QueryLogger"
+- !private "P5Vapor23RequestContentSubscript"
+- "P4HTTP21ResponseRepresentable"
+- !private "V6Fluent3Row"
+- "P6Fluent14RowConvertible"
+- "P6Fluent16RowInitializable"
+- "P6Fluent16RowRepresentable"
+- "P6Fluent8Storable"
+- "C6Fluent7Storage"
+- !private "SS"
+- !private "P5Vapor19StringInitializable"
+- !private "P4Node21StructuredDataWrapper"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "P6Fluent12Transactable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/URI.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/JSON.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/SMTP.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/HTTP.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/TLS.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Node.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Console.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Core.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/SQLite.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Crypto.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FluentProvider.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Branches.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cookies.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Configs.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Sessions.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Sockets.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/WebSockets.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Fluent.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/BCrypt.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Transport.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/CHTTP.build/module.modulemap"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/CSQLite.build/module.modulemap"
+interface-hash: "4b2a7e80d03e07a9cd429cdb6de22933"

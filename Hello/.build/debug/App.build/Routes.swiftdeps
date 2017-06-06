@@ -1,0 +1,240 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Routes"
+provides-nominal:
+- "C3App6Routes"
+provides-member:
+- ["C3App6Routes", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "EmptyInitializable"
+- !private "JSON"
+- !private "PostController"
+- "RouteBuilder"
+- "RouteCollection"
+- "Routes"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Ps9AnyObject", "JSON"]
+- !private ["Ps9AnyObject", "PostController"]
+- ["Ps9AnyObject", "build"]
+- !private ["Ps9AnyObject", "description"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- !private ["P4HTTP17BodyRepresentable", "init"]
+- !private ["P4HTTP17BodyRepresentable", "set"]
+- !private ["P4Bits16BytesConvertible", "init"]
+- !private ["P4Bits16BytesConvertible", "set"]
+- !private ["P4Bits18BytesInitializable", "init"]
+- !private ["P4Bits18BytesInitializable", "set"]
+- !private ["P4Bits18BytesRepresentable", "init"]
+- !private ["P4Bits18BytesRepresentable", "set"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "description"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["P4SMTP25EmailAddressRepresentable", "init"]
+- !private ["P4SMTP22EmailBodyRepresentable", "init"]
+- !private ["P4Core18EmptyInitializable", "JSON"]
+- !private ["P4Core18EmptyInitializable", "PostController"]
+- ["P4Core18EmptyInitializable", "build"]
+- ["P4Core18EmptyInitializable", "init"]
+- ["P4Core18EmptyInitializable", ""]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "set"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "set"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "set"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "set"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "set"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "set"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "set"]
+- !private ["Ps23ExpressibleByNilLiteral", "init"]
+- !private ["Ps23ExpressibleByNilLiteral", "set"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "set"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "set"]
+- !private ["P4Node14FuzzyConverter", "init"]
+- !private ["P4Node14FuzzyConverter", "set"]
+- !private ["Ps8Hashable", "init"]
+- !private ["V4JSON4JSON", "init"]
+- !private ["V4JSON4JSON", "set"]
+- !private ["P4JSON17JSONRepresentable", "init"]
+- !private ["P4JSON17JSONRepresentable", "set"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["P4HTTP7Message", "description"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["P4Node15NodeConvertible", "init"]
+- !private ["P4Node15NodeConvertible", "set"]
+- !private ["P4Node17NodeInitializable", "init"]
+- !private ["P4Node17NodeInitializable", "set"]
+- !private ["P4Node17NodeRepresentable", "description"]
+- !private ["P4Node17NodeRepresentable", "init"]
+- !private ["P4Node17NodeRepresentable", "set"]
+- !private ["P7Routing15Parameterizable", "init"]
+- !private ["P13PathIndexable13PathIndexable", "init"]
+- !private ["P13PathIndexable13PathIndexable", "set"]
+- !private ["P13PathIndexable11PathIndexer", "init"]
+- !private ["C3App14PostController", "deinit"]
+- !private ["C4HTTP7Request", "description"]
+- !private ["P5Vapor23RequestContentSubscript", "init"]
+- !private ["P4HTTP21ResponseRepresentable", "init"]
+- !private ["P4HTTP21ResponseRepresentable", "set"]
+- !private ["P7Routing12RouteBuilder", "get"]
+- !private ["P7Routing12RouteBuilder", "resource"]
+- !private ["P5Vapor15RouteCollection", "JSON"]
+- !private ["P5Vapor15RouteCollection", "PostController"]
+- ["P5Vapor15RouteCollection", "build"]
+- ["P5Vapor15RouteCollection", "init"]
+- ["P5Vapor15RouteCollection", ""]
+- !private ["C3App6Routes", "JSON"]
+- !private ["C3App6Routes", "PostController"]
+- ["C3App6Routes", "RouteBuilder"]
+- ["C3App6Routes", "build"]
+- ["C3App6Routes", "deinit"]
+- ["C3App6Routes", "init"]
+- !private ["SS", "init"]
+- !private ["P5Vapor19StringInitializable", "init"]
+- !private ["P4Node21StructuredDataWrapper", "init"]
+- !private ["P4Node21StructuredDataWrapper", "set"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "P4HTTP17BodyRepresentable"
+- !private "P4Bits16BytesConvertible"
+- !private "P4Bits18BytesInitializable"
+- !private "P4Bits18BytesRepresentable"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "P4SMTP25EmailAddressRepresentable"
+- !private "P4SMTP22EmailBodyRepresentable"
+- "P4Core18EmptyInitializable"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "P4Node14FuzzyConverter"
+- !private "Ps8Hashable"
+- !private "V4JSON4JSON"
+- !private "P4JSON17JSONRepresentable"
+- !private "Ps25LosslessStringConvertible"
+- !private "P4HTTP7Message"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- !private "P4Node17NodeRepresentable"
+- !private "P7Routing15Parameterizable"
+- !private "P13PathIndexable13PathIndexable"
+- !private "P13PathIndexable11PathIndexer"
+- !private "C3App14PostController"
+- !private "C4HTTP7Request"
+- !private "P5Vapor23RequestContentSubscript"
+- !private "P4HTTP21ResponseRepresentable"
+- !private "P7Routing12RouteBuilder"
+- "P5Vapor15RouteCollection"
+- "C3App6Routes"
+- !private "SS"
+- !private "P5Vapor19StringInitializable"
+- !private "P4Node21StructuredDataWrapper"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/URI.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/JSON.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/SMTP.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/HTTP.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/TLS.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FormData.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/libc.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Node.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cache.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/PathIndexable.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Console.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Core.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/SQLite.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Debugging.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Routing.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Random.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Crypto.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/FluentProvider.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Vapor.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Branches.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Cookies.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Configs.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Sessions.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Sockets.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/WebSockets.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Bits.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Fluent.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/BCrypt.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Multipart.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/Transport.swiftmodule"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include/sqlite3.h"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/CHTTP.build/module.modulemap"
+- "/Users/abelfernandez/projects/vapor-server/Hello/.build/debug/CSQLite.build/module.modulemap"
+interface-hash: "458dd5fb46df0436c297a441a27c91c6"

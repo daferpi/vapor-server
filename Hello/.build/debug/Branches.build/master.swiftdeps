@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "95c2837acab43e826398973630113e6c"
+build_time: [548708317, 742443000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch+Paths.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/Branch.swift": [548708113, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/routing.git-5366657101075133678/Sources/Branches/SubBranchMap.swift": [548708113, 0]

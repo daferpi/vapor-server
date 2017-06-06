@@ -1,0 +1,23 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "542144d693010041f5779e5bede783f4"
+build_time: [548708326, 391197000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Cache.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Exports.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Model.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Node+Row+JSON.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Pagination.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Prepare.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Provider.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/SQLite+Config.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Driver.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Config+Preparation.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Prepare.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Droplet/Droplet+Storage.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Filterable.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey+String.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/FilterableKey.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Filterable/Query+Filterable.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Request+Updateable.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/Updateable.swift": [548708112, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/fluent-provider.git-1502561075136423204/Sources/FluentProvider/Updateable/UpdateableKey.swift": [548708112, 0]

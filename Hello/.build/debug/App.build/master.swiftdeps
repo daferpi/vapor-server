@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "d7e55de793476e28ac6dfaa98541dee9"
+build_time: [548708327, 174260000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Config+Setup.swift": [548707193, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Droplet+Setup.swift": [548707193, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Routes.swift": [548707193, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Controllers/PostController.swift": [548707193, 0]
+  "/Users/abelfernandez/projects/vapor-server/Hello/Sources/App/Models/Post.swift": [548707193, 0]

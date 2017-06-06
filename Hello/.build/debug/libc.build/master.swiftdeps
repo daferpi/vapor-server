@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "54693e8d7793398f02dcac23f20aa31e"
+build_time: [548708308, 822167000]
+inputs:
+  "/Users/abelfernandez/projects/vapor-server/Hello/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [548708112, 0]
